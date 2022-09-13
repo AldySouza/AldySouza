@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with Web development
 - 🌱 I’m currently learning NodeJS
-- 📫 How to reach me: aldicleiry@hotmail.com
+- 📫 How to reach me: aldyscholar@gmail.com
 - 😄 Pronouns: She/Her
 
  <div>
