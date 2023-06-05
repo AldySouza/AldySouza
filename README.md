@@ -1,8 +1,8 @@
 ### Hello World! I'm Aldy 🖖🏽
 
 - 🔭 I’m currently working with Web development
-- 🌱 I’m currently learning NodeJS
-- 📫 How to reach me: aldyscholar@gmail.com
+- 🌱 I’m currently learning Clean Architecture
+- 📫 How to reach me: aldysouzacontato@gmail.com
 - 😄 Pronouns: She/Her
 
  <div>
@@ -14,7 +14,7 @@
 ##  
 <div style="display: inline_block"><br>
   <img align="center" alt="Aldy-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Aldy-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+<!--   <img align="center" alt="Aldy-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> -->
   <img align="center" alt="Aldy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Aldy-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Aldy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
