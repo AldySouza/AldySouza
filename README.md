@@ -1,7 +1,7 @@
 ### Hello World! I'm Aldy 🖖🏽
 
 - 🔭 I’m currently working with Web development
-- 🌱 I’m currently learning Clean Architecture
+- 🌱 I’m currently learning Software Architecture
 - 📫 How to reach me: aldysouzacontato@gmail.com
 - 😄 Pronouns: She/Her
 
